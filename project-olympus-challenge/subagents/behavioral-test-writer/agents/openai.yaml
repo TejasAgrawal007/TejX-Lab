@@ -1,0 +1,4 @@
+interface:
+  display_name: "Behavioral Test Writer"
+  short_description: "Design behavior-focused challenge tests"
+  default_prompt: "Use behavioral-test-writer to design per-test TEST-SPEC blocks and write behavior-focused challenge tests."

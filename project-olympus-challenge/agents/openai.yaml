@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Olympus Challenge Author"
+  short_description: "Author Project Olympus coding-agent challenges"
+  default_prompt: "Use project-olympus-challenge-author to assess feasibility and assemble Olympus challenge deliverables."
